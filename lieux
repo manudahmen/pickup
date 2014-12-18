@@ -1,5 +1,6 @@
 Localisation d'un fichier pour la lecture
-- Adresse sur Internet.
+[- Application spécifique?]
+- Adresse sur Internet. 
 protocol://user:pasword@domainname/chemin
 - Connexion à API web, à travers le navigeteur/ application utilisant une API web
 ou ftp ou autres nom/numéro de protocle/
@@ -21,6 +22,21 @@ Type de fichiers
 - Fichier exéccutable
 L'un -)) utilise / dépend de / incorpore / ((-
 
+Localisation physique d'un objet:
+- Pays
+- Province/Etat
+- Ville
+- Code postal
+- Numéro de porte/adresse du bâtiment
+- Boîte postale
+- Rue
+Objet véhicule:
+- Immatriculation
+- Numéro d'immatriculation
+- Date d'immatriculation
+
+ou autre: 'désert' 'dans l'espace' 'sur le trotoir ' 'enlevé par des exterrestre'
+
 
 A développer (fil directeur=règle de grammaire)
 Temps
@@ -28,3 +44,4 @@ Personne/animal/végétal/artifact/chose-objet-sujet
 Manière (?) modalité? Façon
 Verbe
 
+Fichier: lecture/extraction/modification/déplacement/copie/
